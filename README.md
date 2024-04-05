@@ -34,9 +34,9 @@ El servidor proporciona las siguientes rutas:
 
 ## Estructura del Proyecto
 
-- `usuarios.mjs`: Contiene el arreglo de nombres de usuarios y se exporta para ser utilizado en el servidor.
-- `middlewares.mjs`: Contiene los middlewares `validarUsuario` y `generarNumeroAleatorio`.
-- `server.mjs`: El archivo principal que contiene el servidor Express y las rutas definidas.
+- `users.js`: Contiene el arreglo de nombres de usuarios y se exporta para ser utilizado en el servidor.
+- `middlewares.js`: Contiene los middlewares `validarUsuario` y `generarNumeroAleatorio`.
+- `index.js`: El archivo principal que contiene el servidor Express y las rutas definidas.
 
 ## Contribuir
 
