@@ -12,11 +12,13 @@ Este es un servidor desarrollado con Express que sirve un sitio web estático co
 2. Abre una terminal en la carpeta del proyecto.
 3. Ejecuta el siguiente comando para instalar las dependencias:
 
+npm install
 
 ## Uso
 
 1. Una vez que hayas instalado las dependencias, puedes iniciar el servidor ejecutando el siguiente comando:
 
+npm start
 
 2. El servidor se iniciará en el puerto 3000.
 
